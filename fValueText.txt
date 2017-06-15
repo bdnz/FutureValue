@@ -1,0 +1,19 @@
+Present Value
+Suppose you want to deposit a certain amount of money into a savings account, and then leave it alone to draw interest for the next 10 years. At the end of 10 years you would like to have $10,000 in the account. How much do you need to deposit today to make that happen? (At 9% annual interest, the answer is $4224.11)
+You can use the following formula, which is known as the present value formula, to find out:
+PV =  
+F(1 + r)n
+
+The terms in the formula are as follows:
+ P is the present value, or the amount that you need to deposit today. 
+ F is the future value that you want in the account. (in the example above, F is $10,000) 
+r is the annual interest rate. ? n is the number of years that you plan to let the money sit in the account.
+
+Future Value
+Instead of a single deposit, what if you wanted to make monthly deposits into a saving account. 
+Say for instance $700. How much money would you have at the end of 12 months? (At 9% annual interest, the answer is $8,755.31)
+You can use the following formula, which is known as the future value formula, to find out:
+FV = R × 
+(1 + i)n - 1i
+The terms in the formula are as follows: ? i is the monthly interest rate (annual interest rate / 12);
+n are the number of months you want to keep making the deposit.R is the fixed monthly deposit (in the example above, R is $700)
